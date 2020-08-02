@@ -1,8 +1,14 @@
-# nfc_app
+# Arabic Localizations Flutter App
+Simple implementations of flutter_bloc (cubit) and flutter_localizations
 
-A new Flutter project.
 
-## Getting Started
+## Preview
+<p align="center">
+  <img src="Screenshots/2.png" width="600" hieght="600">
+</p>
+
+
+## Getting Started With Flutter
 
 This project is a starting point for a Flutter application.
 
